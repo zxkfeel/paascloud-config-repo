@@ -74,8 +74,8 @@ paascloud:
       expiredMinutes: 120
   mail:
     host: smtp.sina.com
-    username: 'your email address'
-    password: 'your email password'
+    username: '793297896@163.com'
+    password: 'zxfeel'
     test-connection: false
     properties:
       mail:
